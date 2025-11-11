@@ -1,2 +1,5 @@
-# gondi-keyboard
-A custom Android keyboard app for typing in masaram gondi script.
+# Welcome to your Gondi Phonetic Keyboard
+
+## Project info
+
+This is a native cross-platform mobile app created by Umesh Porte
